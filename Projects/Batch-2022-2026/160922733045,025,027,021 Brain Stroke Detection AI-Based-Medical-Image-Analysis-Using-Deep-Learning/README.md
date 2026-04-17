@@ -2,6 +2,11 @@
 
 A web application that uses a Convolutional Neural Network (CNN) to detect brain strokes from CT scan images. Upload a brain CT image and the AI model will classify it as **Normal** or **Stroke Detected** with a confidence score.
 
+## Team Names
+Ateeq ur rahman   160922733045
+Saad ullah khan   160922733025
+Mohammed Maaz     160922733027
+Syed Anwar        160922733021
 ## Features
 
 - **CNN-Based Detection** — 4-layer CNN trained on brain CT images for binary classification
